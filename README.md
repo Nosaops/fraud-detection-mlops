@@ -1,4 +1,4 @@
-# Fraud Detection MLOps API
+# Fraud Detection API
 
 A machine learning API that predicts fraudulent transactions, built to deepen my understanding of ML integration in microservices architecture as an Operations and Product Manager.
 
@@ -126,8 +126,7 @@ curl -X POST http://localhost:8000/predict \
 
 The API containerized and running in Docker Desktop, exposed on port `8000:8000`:
 
-![fraud-api container running in Docker Desktop](./Screenshot_2026-05-02_132547.png)
-
+![fraud-api container running in Docker Desktop](./Pictures/Screenshot_2026-05-02_132547.png)
 > CPU usage: 0.25% — lightweight enough to sit alongside other microservices in a finance system.
 
 ---
