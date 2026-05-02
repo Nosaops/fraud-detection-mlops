@@ -125,7 +125,8 @@ curl -X POST http://localhost:8000/predict \
 ## Container Running
 
 The API containerized and running in Docker Desktop, exposed on port `8000:8000`:
-![fraud-api container running in Docker Desktop](Screenshot_2026-05-02_132547.png)
+![fraud-api container running in Docker Desktop]<img width="752" height="448" alt="Screenshot 2026-05-02 132547" src="https://github.com/user-attachments/assets/59480e1e-d085-47fa-bf8f-a940152e6628" />
+
 > CPU usage: 0.25% — lightweight enough to sit alongside other microservices in a finance system.
 
 ---
